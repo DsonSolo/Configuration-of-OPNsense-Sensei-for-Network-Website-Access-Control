@@ -164,6 +164,6 @@ GuestNetwork interface being monitored:**
 In this comprehensive lab, each step was meticulously performed and
 documented. The accompanying screenshots serve as visual evidence,
 providing clarity and transparency in the configuration of OPNsense
-Sensei for Guest Network monitoring and rule implementation. This
+Sensei for Network monitoring and rule implementation. This
 hands-on experience has enriched my understanding of advanced firewall
 features.
